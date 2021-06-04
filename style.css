@@ -1,0 +1,46 @@
+body {
+    background-size: cover;
+}
+
+#heading {
+    color:chartreuse;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 80px;
+}
+
+#info {
+    color:chartreuse;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+}
+
+#i2 {
+    color:chartreuse;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+}
+
+#header {
+    color:chartreuse;
+    height: 1px;
+}
+
+#audio_wav {
+    height: 55%;
+    border-radius: 40%;
+    margin-top: 1%;
+}
+
+#start {
+    margin-right: 55%;
+    margin-left: 20%;
+}
+
+#collection {
+    color:chartreuse;
+}
+
+#click {
+    margin-right: 15%;
+    visibility: hidden;
+}
